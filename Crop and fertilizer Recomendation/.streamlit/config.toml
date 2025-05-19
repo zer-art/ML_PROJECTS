@@ -1,0 +1,13 @@
+[theme]
+
+# Primary colors
+primaryColor = "#4CAF50"  # Green color for agriculture theme
+backgroundColor = "#ffffff"  # Clean white background
+secondaryBackgroundColor = "#f0f8f0"  # Light green tint for secondary elements
+
+# Text colors
+textColor = "#2c3e50"  # Dark blue-gray for main text
+font = "sans serif"  # Clean, modern font
+
+# Accent colors for visualizations and interactive elements
+tertiaryColor = "#45a049"  # Darker green for hover states
